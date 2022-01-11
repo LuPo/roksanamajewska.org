@@ -886,7 +886,7 @@ ${math}
   }
 
   function venue_string(ent) {
-    var cite = ent.journal || ent.booktitle || "";
+    var cite = ent.journaltitle || ent.booktitle || "";
     if ("volume" in ent) {
       var issue = ent.issue || ent.number;
       issue = issue != undefined ? "(" + issue + ")" : "";
@@ -978,9 +978,10 @@ ${math}
       cite += link_string(ent);
       cite += "<br>";
 
+      const pubDate = new Date(ent.date)
       var a_str = author_string(ent, "${I} ${L}", ", ") + ".";
       var v_str =
-        venue_string(ent).trim() + " " + ent.year + ". " + doi_string(ent, true);
+        venue_string(ent).trim() + " " + pubDate.getFullYear() + ". " + doi_string(ent, true);
 
       if ((a_str + v_str).length < Math.min(40, ent.title.length)) {
         cite += a_str + " " + v_str;

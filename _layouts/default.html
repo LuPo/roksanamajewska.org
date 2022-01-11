@@ -10,6 +10,8 @@ layout: parse
     <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
   {%- endif -%}
   {% include head.html %}
+      <!-- Distill js -->
+    <script src="{{ '/assets/js/distillpub/template.v2.js' | relative_url }}"></script>
   </head>
 
   <!-- Body -->
@@ -26,6 +28,11 @@ layout: parse
     <!-- Footer -->
     {%- include footer.html %}
   </body>
+
+  <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}">
+  </d-bibliography>
+  {% include scripts/jquery.html %}
+  <script src="{{ '/assets/js/distillpub/overrides.js' | relative_url }}"></script>
 
   {% include scripts/jquery.html %}
   {% include scripts/bootstrap.html %}

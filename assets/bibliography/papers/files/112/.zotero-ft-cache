@@ -1,0 +1,461 @@
+
+Skip to main content
+
+Advertisement
+Advertisement
+SpringerOpen
+Search
+
+    Get published
+    Explore Journals
+    Books
+    About
+    Login
+
+Nanoscale Research Letters
+
+    About
+    Articles
+    Submission Guidelines
+
+    Nano Express
+    Open Access
+    Published: 10 April 2018
+
+Silica diatom shells tailored with Au nanoparticles enable sensitive analysis of molecules for biological, safety and environment applications
+
+    V. Onesto ,
+    M. Villani ,
+    M. L. Coluccio ,
+    R. Majewska , ,
+    A. Alabastri ,
+    E. Battista ,
+    A. Schirato ,
+    D. Calestani ,
+    N. Coppedé ,
+    M. Cesarelli ,
+    F. Amato ,
+    E. Di Fabrizio &
+    F. Gentile    
+
+Nanoscale Research Letters volume  13 , Article number:  94 ( 2018 ) Cite this article
+
+    2252 Accesses
+
+    1 Altmetric
+
+    Metrics details
+
+Abstract
+
+Diatom shells are a natural, theoretically unlimited material composed of silicon dioxide, with regular patterns of pores penetrating through their surface. For their characteristics, diatom shells show promise to be used as low cost, highly efficient drug carriers, sensor devices or other micro-devices. Here, we demonstrate diatom shells functionalized with gold nanoparticles for the harvesting and detection of biological analytes (bovine serum albumin—BSA) and chemical pollutants (mineral oil) in low abundance ranges, for applications in bioengineering, medicine, safety, and pollution monitoring.
+Background
+
+Diatoms are unicellular algae massively present on earth with over 100,00 species distributed in aquatic (oceans, lakes, rivers) and semi-aquatic (wetlands and soils) niches. They contribute to an estimated 40–50% of the total organic material content in the oceans and to the ~ 20% of the conversion of carbon dioxide to organic compounds (i.e., photosynthesis) in the biosphere [ 1 , 2 , 3 ].
+
+Diatoms are protected by a functional silicon dioxide shell (frustules) with a complex, micrometer-scale architecture and a pore size varying between species. Due to their microstructure, diatom shells show values of specific strength up to ~ 1700 kN m/kg that lay well above those of other natural cellular, composite, and silk materials including spider silk (1000 kN m/kg) [ 4 , 5 , 6 , 7 ]. Moreover, due to the regularity and symmetry in the lattice of pores aligned on the frustule surface, often diatom frames show natural optical properties, and reveal light convergence, concentration, and trapping effects, depending on pore geometry and topology, wavelength, and the valve orientation [ 8 , 9 , 10 , 11 , 12 ].
+
+Thus, diatoms are natural (in opposition to artificial), abundant, low cost, and easily accessible three-dimensional micro- or nanoscale structures that do not require traditional techniques of nanofabrication for their production, and, in sight of their scale, morphology, and properties thereof, display potential for being utilized as miniature sensors, drug-delivery capsules, and other micro-devices [ 2 , 13 , 14 ]. Nevertheless, despite this promise, there are relatively few applications of diatoms in nanotechnology [ 15 , 16 , 17 ], possibly because, while diatom shells represents the required support for many structures, further functionalizations (modifications) are necessary to provide these structures with the correct functions.
+
+In this letter , we demonstrate a method to functionalize silica diatoms shells with Au nanoparticles. This results in devices with multiple scales in a hierarchical design. Each shell is a silicon dioxide cylinder with an average diameter d  ~ 8 μm and height h  ~ 10 μm (Fig. 1a and Additional file  1 ). Shell surfaces incorporate dense patterns of pores that are approximately circular in shape and their size varies in the narrow interval p s  = 200 ± 40 nm (Fig. 1b , c ). Gold nanoparticles are then distributed uniformly over the external surface of the shells, with an average diameter of the particles of Au  −  np s ~20 nm and small deviations around the mean (Fig. 1b , c ). Since diatom shells are here derived from diatomaceous earth, that is a low cost, theoretically unlimited source of frustule (Additional file  2 ), the method yields high volumes of nano-devices in a small time (Fig. 1d , e ).
+Fig. 1
+figure1
+
+Artist’s impression of silicon dioxide diatom shells, which appear as micrometer cylinders with an average diameter of d ~8 μm and heights larger than h  > 10 μm, arrays of pores decorate the external surface of the diatoms ( a ). SEM micro-graphs of silica shells functionalized with gold nanoparticles (D24 systems) acquired at low ( b ) and high ( c ) magnifications factors. From these, one can observe the regular pattern of pores permeating the diatom surface decorated with randomly distributed gold nanoparticles, with a pore size ~200 nm and a particle size ~20 nm. Large field SEM ( d ) and optical ( e ) images of D24 systems assess the functionalization process capability to produce large volumes of micro-devices. Fluorescence microscopy inspection of D24 systems after incubation with fluorescent 50 nm yellow microspheres reveal devices selectivity, specificity and sensitivity ( f )
+Full size image
+
+The device integrates different scales. (i) The sub-millimeter dimension of the shells permits system manipulation, handling, and access. (ii) The micrometer size of the pores enables molecule-harvesting, selection, and (in a more sophisticated evolutions of the device) fragmentation. (iii) The nanometer size of the Au–NPs enables control and amplification of an external electromagnetic (EM) radiation. Thus a hierarchical multi-scale architecture permits to extract-specific analytical molecular targets from a solution and characterize them using surface-enhanced Raman spectroscopy (SERS) even in very low abundance ranges. Incubation with fluorescent 50 nm microspheres (Fluoresbrite® Yellow Green Microspheres—Additional file  3 ) and subsequent fluorescence analysis indicates devices localization, selectivity, specificity, and absence of signal from the background (noise) (Fig. 1f ).
+Results
+Functionalization with Au–NPs
+
+Diatomaceous earth (DE) was cleaned with piranha solution to remove organic residuals. Samples were then maintained for 120 s in a diluted 2% hydrofluoric acid (HF) solution to remove small fragments, roughen diatoms surface, and promote Au nucleation. Samples where then decorated with Au–NPs using of a photo-deposition process. Shells were suspended in DI water with 0.1% solution of chloroauric acid (HAuCl 4 ) in isopropyl alcohol and illuminated with a UVA/UVB Osram Ultra Vitalux lamp. Irradiation time, concentration of diatom shells in solution, and amount of chloroauric acid were varied over significant intervals to produce different nanoparticles morphologies. For the present configuration, we used 20 mg of shells in 50 ml of solvent and timely injections of 30 μl of chloroauric acid every 5 min, for a total duration of 1 h. Notice that the method does not imply electrochemical reduction of gold ions into metallic gold as in electroless deposition [ 18 , 19 ]. In the following, we shall indicate Au–NPs functionalized diatom shells with the abbreviation D24. X-ray photoelectron spectroscopy (XPS) was used to characterize D24 systems. High-resolution XPS spectra were acquired using a power P  = 100 W, beam energy e  = 11.7 keV, resolution δe  = 0.1 eV, accumulation time of t  = 20 min minimum. Peaks in the spectra were referenced to the carbon peak C1s at 284.8 ev binding energy. In Fig. 2 , we report XPS spectra of systems before and after functionalization. We observe that, after functionalization, D24 systems display the emergence of metallic gold (core band Au4f5 at 84 ev binding energy), and traces of the valence bands associated to Au4d3 (353 eV), Au4d5 (334 eV), Au5d3 (6 eV). We also observe traces of Sodium (Na1s, 1071 eV and Auger peaks at 497 eV) and Silicon (Si2s, 2p at 150 and 97 eV), that are attributed to contaminants in the substrate used for nanoparticles drop deposition. Presence of carbon (C1s) in the spectra is coincidental, not associated to the fabrication process, and it results from the spontaneous adsorption of normal levels of carbon contained in the atmosphere to the diatom surface. The presented method for the synthesis of nanoparticles enables the formation of nanoparticles on the external surface of the diatoms and within the pores. Additional scanning electron microscopy (SEM) images presented in Additional file 1 demonstrate deposition of Au nanoparticle deep inside the pore matrix of the diatoms. So, while pores in the porous matrix allow analytes sequestration, immobilization, and retention, gold nanoparticle array enable SERS effect and the detection of analytes in very low abundance ranges. These effects are tightly interwoven.
+Fig. 2
+figure2
+
+XPS spectra of silicon dioxide diatom shell before (lower diagram) and after (upper diagram) functionalization with gold nanoparticles
+Full size image
+Simulating EM Field Around D24/Au–NPs
+
+We used computer simulations and finite elements analysis (FEA) to evaluate the EM field around arrays of gold nanoparticles in the D24 system (Methods and Additional file  4 ). Since patterns of holes in the diatom reveal an hexagonal symmetry (Fig. 3a ) resembling a photonics crystal, we used a numerical scheme to evaluate whether a similar geometry, decorated with a uniform distribution of Au nanoparticles, may locally enhance the EM signal. Simulated patterns of pores were reproduced from a real SEM image (Fig. 3b ). A maximum of 125 particles were placed around each pore and between the pores (Fig. 3b ). We approximated the incident EM field with a TM linearly polarized plane wave with central wavelength λ  = 633 nm, power P inc  = 1 W, and associated power density I  = 2.5 × 10 8  W/cm 2 . In the simulations, diatom shell was described by a dielectric with refractive index n D24  = 1.3 and the surrounding medium and the pores were considered air with n air  = 1. Au–NPs were modeled using the formulation of Rakic and colleagues [ 20 ]. Results indicate (Fig. 3c ) that the EM field amplified by the system is unevenly distributed in the volume of interest, with the EM field preferentially concentrated around the gold nano-particles, where it achieves intensities as high as |E|~3 × 10 8  V/m, and associated enhancement factors Q~10 2 if we consider the EM field and Q~10 8 if we consider the surface enhanced Raman spectroscopy (SERS) effects. (In which case, the enhancement is proportional to the amplitude of local electric field to the power of four [ 21 ]). Since in practical applications diatom surface may by randomly orientated with respect to an external radiation, it has some interest analyzing the behaviour of |E| as a function of the direction θ that the normal of the diatom surface forms with the propagating TM wave (Fig. 3e ). In the θ = 0 − 70 ° interval, |E| oscillates between ~1.5 × 10 8  V/m = |E| min at θ = 20 ° and ~4 × 10 8  V/m = |E| max at θ = 50 ° . Thus the intensity of the EM field is severely influenced by the way in which D24 systems are positioned on a surface for successive analysis and inspection. Notice however that even in the worst configuration, calculated values of |E| min are sufficiently large to yield a robust and sensitive analysis of the signal associated to the propagation of the EM field.
+Fig. 3
+figure3
+
+SEM image of an hexagonal lattice of pores on the diatom surface reproducing a photonic crystal ( a ). Pore size, shape, and topology of the real prototype, and random patterns of gold NPs distributed between the pores, were replicated in a numerical finite element analysis (FEA) tool-box ( b ). The output of the simulations is the EM field and the EM field enhancement around the aggregates of gold nanoparticles, with a maximum EM field of nearly ~3 10 8  V/m ( c ). EM distribution shows sensitivity to the orientation of the pore surface with respect to the external incident radiation ( d ). Varying the angle of incidence between the external radiation and the normal of the pore surface over significant intervals, we find that the maximum EM field intensity oscillates between ~1.5 10 8 and ~4 10 8  V/m ( e )
+Full size image
+
+FEM analysis presented in Fig. 3a – c simulates the EM field in simplified 2D planar geometries—for this configuration, the EM field evolves around the Au nanoparticles on the external diatom surface. Nevertheless, in the three-dimensional scheme of Fig. 3d and other images presented in the Additional file 4 , gold nanoparticles are distributed along the internal surface of the pores. This scheme, more akin to the real physical prototype, indicates that the analytes adsorbed by the D24 devices may interact with the EM field—and being detected—for any pore/analyte reciprocal localization. So, even if SERS is a short range effect and the EM field decays with a power of three of the distance from the gold nanoparticles [ 22 ], analyte harvesting and analyte/pore colocalization assure the sensing capabilities of the device. Further to this end, we demonstrate localization of the analyte in the pores with additional, high magnification fluorescence images of D24 systems loaded with Yellow Green 50 nm nanospheres (Additional file 3 ). Spatial overlap between the fluorescence signal and the D24 diatom devices and the vanishingly small background signal demonstrate that analyte uptake is highly efficient leaving no or minimal residues.
+SERS Analysis of BSA in Solution
+
+Here, we assess the ability of D24 devices to operate as molecular harvesting agents and sensing devices in biological systems. We incubated D24 devices in a solution containing bovine serum albumin (BSA) in a 10 −16  M concentration, with a relative abundance of 1 mg of D24 devices in 1 ml of solution. The complex network of openings that penetrates into the diatom represents a filter that can absorb the molecules with a hydrodynamic diameter smaller than the pore size. Considering that, for the present configuration, the average pore size is nearly 200 nm, BSA proteins with a characteristic length size of ~ 6 nm [ 21 ] would easily accumulate within the pore matrix. After 10 min from incubation, D24 systems were separated and extracted from the initial solution through sedimentation. D24 devices containing BSA were positioned on the stage of a Renishaw inVia micro-Raman microscope for analysis.
+
+Figure  4a reports the measured Raman spectra of the D24 capsule (i), of pure BSA (ii), of BSA + non-functionalized diatom shells (iii), and of BSA + D24 systems (iv). Notice that in the last configuration, the systems yield SERS effects. In Table 1 , we report a direct comparison and a tentative assignment of peaks measured in the systems with (iii) and without (ii) SERS effects. While BSA is still detectable in simple diatom shells, Au nanoparticles in D24 systems highlight the presence of the aromatic components of BSA at 1392 cm −1 and in the 1556–1576 cm −1 band. The peak at 1670 cm −1 is suggestive of the presence of Amide I in the sample, that in turn suggests β - sheet conformation visible with SERS. The corresponding peak in simple micro Raman is located at 1658 cm −1 , that differently suggests an α -helix structure. At the same time, the relevant enhancement of the COO- symmetric stretching at 1392 cm −1 suggests strong electrostatic interactions with the diatom/gold surface [ 23 ]. SERS matrix scans of samples over finite areas were carried out at the central frequency f  = 1576 cm −1 to assess reparability, reliability, and sensitiveness of the measurements (Fig. 4b ). Raster plot of SERS signal in two different configurations (Fig. 4c , d ) indicate the system capability of reconstructing the spatial distribution of BSA content across shells in vanishingly low abundance ranges. In previously reported experiments [ 24 ], we have investigated local heating induced by EM amplification and plasmonics. While we observed relevant and site-selective temperature increments associated to nano-photonics devices on a substrate, with absolute values of temperatures as high as ~ 400 K, nevertheless laser power associated to these increments should be set in the 10 mW range, i.e., two orders of magnitude higher than laser power intensity P  = 0.18 mW used for current measurements. Therefore, in this case, artificial heating effects and possible conformational changes in proteins are neglected. Conformational changes and changes in the relative content of β - sheets in proteins are activated by externally applied temperature fields starting from ~ 340 K [ 25 ].
+Fig. 4
+figure4
+
+Raman spectra of pure BSA, BSA adsorbed by silicon dioxide shells, and BSA adsorbed by D24 systems, in the latter two experiments, the initial concentration of BSA was 10 −16 ( a ). Optical microscopy inspection of D24 systems after incubation with BSA ( b ); Raman map of BSA acquired over individual D24 systems ( c , d )
+Full size image
+Table 1 Raman and SERS peaks of BSA in the 800–1800 cm −1 range, and tentative assignment of peaks
+Full size table
+SERS Analysis of Mineral Oil
+
+D24 devices were demonstrated in the analysis and detection of mineral oil in increasingly low dilution factors. Mineral oil is a by-product of the distillation of petroleum to produce gasoline. It contains light mixtures of higher alkanes with the paraffins of this mineral oil ranging from about C 18 to C 40 : it roughly corresponds to the composition of base oil for manufacturing lubricating or hydraulic oils [ 26 ]. In a recent commentary [ 26 ], it is recommended to reduce the exposition to mineral oil to levels lower than ~ 50 mg/kg, i.e., 50 ppm. Analysis of mineral oil (m.o.) and related products is therefore of interest in environmental pollution and food safety. m.o was examined using Raman spectroscopy following the methods described in the previous BSA analysis.
+
+Figure  5a displays the measured Raman spectra relative to the sole D24 capsules (i), to the sole m.o. (ii), and to an emulsion of m.o. and DI water in different concentrations (iii). Silicon dioxide is the principal component of the D24 systems (i). In the considered range of frequencies 600–3200 cm −1 , we observe Raman peaks in the band 950 cm −1 , associated to a second-order scattering of Silicon, and in the band 2130 cm −1 , associated to the −SiH 2 stretching [ 27 ]. The m.o . spectrum (ii) is characterized by the peak at 1450 cm −1 , indicative of the CH 2 scissors vibration, and the peaks in the 2850–2923 cm −1 region, attributable to CH stretching [ 28 ]. Raman spectra relative to D24 after adsorption with m.o. at different concentration ranging from 0.05 to 200 μl/ml indicate that the relative content of m.o. in the emulsion is encoded in the bands 1450 and 2850–2923 cm −1 . The higher the content of m.o. in the emulsion, the higher the Raman peaks in these frequency ranges. Remarkably, D24 analysis is sensitive to m.o. dilutions as low as 0.050 μl/ml ≡ 50 ppm, (m. o. : DI water), that is the threshold limit value above which safety, toxicity, or pollution concerns may rise. Raman maps of m.o. at a dilution of 10 μl/ml are measured over a D24 surface and reported in the inset of Fig. 5b . The maps are calculated at the central frequencies f  = 1450 cm −1 (Fig. 5c ) and f  = 2900 cm −1 (Fig. 5d ). In all cases, Raman intensity is proportional to the content of m.o. in the diatom shell, and the m.o. profile is reconstructed with sub-micrometer resolution.
+Fig. 5
+figure5
+
+Raman spectra of D24 systems, pure mineral oil, and mineral oil adsorbed by D24 systems in increasingly low concentrations ( a ). Optical image of D24 systems after incubation with mineral oil and sedimentation ( b ). Raman maps of mineral oil adsorbed by a D24 micro device acquired at f  = 1450 cm −1 ( c ) and f  = 2900 cm −1 ( d )
+Full size image
+Discussion
+
+The described scheme allows analyte capture, localization, sequestration, and detection. Analytes adsorbed by porous D24 diatoms can be easily collected, manipulated, separated, and aliquoted into samples. Each sample is constituted by (i) functionalized diatoms loaded with (ii) specific analytes. Thus a sample is combination of the analyte and the device necessary to detect it. Different aliquots can be processed using simple Raman set-ups, stored for future analysis, perhaps kept in a refrigerator or a freezer for long periods of time. Thus, D24 systems are a hybrid device which operates in symbiosis with the target molecules that one wants to analyze. While traditional SERS substrates or metal nanoparticles have been heretofore used in isolation, and interaction between the SERS substrate and the analyte takes place in intermittent episodes and is often limited at the time of the measurement, D24 systems integrate the sensor and the target molecule in an individual device that is multifunctional, manageable, and portable. Moreover, differently from traditional SERS substrates, D24 systems are sufficiently small to act as tracers. Released in the microcirculation circuits, D24 systems will be transported through the arteries, arterioles, and microvessels of the living tissue, interact with blood and the waste product of cells, internalize analytes, peptides and biomarkers, and operate analysis of biomolecules with elevated spatial and temporal resolution. Analytical maps of biomolecules may be, in turn, associated to individual cancer risk, pathological risk, or physiological state of a patient to support medical decisions and plan interventions.
+
+Notice that the idea of using diatoms as microcapsules for sensing is not completely new. Nevertheless, previously reported works depart from our analysis to an extent that depends on individual contributions as explained in the subsequent section.
+
+In reference [ 29 ], Ren and colleagues used simulations to explore the electric field enhancements generated by plasmonic nanoparticles coated on the surface of diatom skeletal shells. Then, they prepared SERS substrates by assembling silver nanoparticles on diatom surfaces. While similar devices achieve excellent sensing enhancement factors, diatoms are immobilized on a substrate, and may not be freely administrated in the microcirculation, within biological fluids or solutions, biological compartments, aqueducts, channels, seawater, ocean streams and currents, for biological or technical applications.
+
+In reference [ 30 ], Chen and colleagues pressed Au nanoparticle-coated diatomaceous earth into hard, button-like millimeter tablets. Then, they used these SERS tablet devices to analyze the chemical composition of eccrine sweat in latent fingerprints, that is a brilliant, very practical application of the device in medicine. Yet, it is specific and the analysis is still executed at a macroscale level.
+
+In reference [ 31 ], the group led by Luca De Stefano functionalized diatom frustule with Au nanoparticles using electroless deposition. Then, they tested the device using p-Mercaptoaniline (pMA). pMA can form self-assembled monolayer on metal surfaces and is therefore used as a surface probe molecule in SERS. Electroless deposition is an assessed technique for the synthesis of gold nanoparticles on an autocatalytic surface that allows attaining high control on the size and density of the particles [ 18 , 19 , 32 ]. Differently from this approach, we used here a photo-deposition process that is more direct, faster, and requires no or minimal sample treatment compared to electroless deposition. Nevertheless, the approach proposed by De Stefano is promising and deserves to be verified even further in biological or environmental applications.
+Conclusions
+
+We developed ways to modify economic, easily accessible, and abundant diatomaceous earth to obtain miniature sensor devices where the pores of the diatom shells have the ability to capture molecules in solution, and the gold nanoparticles amplify the spectroscopy signal of several order of magnitude to reveal molecules in otherwise unattainable low abundance ranges. We demonstrated similar D24 devices in the analysis of biological BSA proteins in solution and for the detection of traces of mineral oil in a binary emulsion with water. In both cases, we revealed target molecules in low dilutions down to 10 −16 M for BSA and 50 ppm for mineral oil. The devices may find applications in analytical chemistry, the surveillance and assessment of biological risk, food safety, contaminant monitoring, and surveillance in seawaters, aqueducts, and drinking water.
+Methods
+Scanning Electron Microscopy of Samples
+
+Silica shells functionalized with Au nanoparticles (D24 systems) were dispersed directly on a carbon adhesive tape for scanning electron microscopy (SEM) imaging. Samples were imaged using a Zeiss Auriga Compact FE-SEM equipped with InLens secondary-electron detector, for morphological imaging, and anular Back Scattering detector, for Z-contrast imaging (in order to highlight the presence of Au).
+Characteristics of Diatomaceous Earth Used in This Study
+
+Diatom material used in this study was a food grade, high-quality diatomaceous earth provided by Perma-Guard (Perma-Guard Europe Sollaris Sp. z o.o., Otwock, Poland) as a 1 kg free sample of Fossil Shell Flour®. Its current market price is ~ 16 euro per 1 kg. It is composed of cylindrical shells of extinct freshwater diatom Melosira preicelanica. Its main fraction constitutes amorphic silica (up to 94%), followed by smectites (~ 3%), kaolinite (~ 2%), feldspars (~ 1%), calcite (> 1%), and quartz (> 1%). Grinding in a low-speed hammer mill was performed to homogenize the particle size. Main properties (including physical and optical properties) of Fossil Shell Flour® are median particle size: 10 μm, mesh screen residue: 2%; refractive index: 1.43; oil absorption: 120%; brightness (green filter): 85; specific gravity: 2.2; surface area: 44.2 m 2 /g; pH: 8.0; total volume of pores: 0.132 cm 3 /g; micropores (< 20 Å): 14%; mesopores (20–500 Å): 65%.
+Fluorescence Analysis of D24 Systems
+
+D24 systems were incubated with Fluoresbrite® Yellow Green Microspheres with a diameter of 50 nm for 10 min, with a ratio D24 : fluorescent particles = 1 : 10. Then, we collected D24 systems from the solution and placed them on the optical stage of an inverted Leica TCS-SP2® laser scanning confocal microscopy system. All measurements were performed using a ArUv laser. The pinhole (80 μm) and laser power (80% power) were maintained throughout each experiment. Yellow fluorescence (similar to FITC) was excited using a λ 1  = 441 nm excitation line and confocal images were collected at the maximum of emission λ 2  = 485 nm using × 10/20 objectives. Images were acquired over a region of interest of 975 × 750 μm 2 and were averaged over four lines and ten frames to improve quality and reduce noise. Images were digitalized into 1280 × 960 pixels.
+X-Ray Photoelectron Spectroscopy Analysis of Samples
+
+X-ray photoelectron spectra were recorded on a X-ray photoelectron spectroscopy (XPS) Versa Probe II (PHI, Chanassen US) by large area analysis mode where the mono-chromate Al anodic beam of 100 μm, 100 W power, normal to the surface, is rastered over an area of 1400 × 300 μm 2 with the analyzer at 45° with respect to the sample surface. Survey spectra were acquired with an accumulation time at least of 20 min at high pass energy (187 keV) while high-resolution spectra of the elements of interests where acquired at 11.7 keV with same power and 0.1 eV resolution. Spectra were analyzed by Multipack (PHI, Chanassen USA) software and all the peaks were referenced to the adventious carbon peaks C1s at 284.8 eV binding energy.
+Simulating the Electromagnetic Field Within the D24 Systems
+
+In order to calculate numerically the electric field profile throughout the decorated structure, a finite element method (FEM) 3D model has been developed employing the commercial software COMSOL Multiphysics 5.3. Simulations have been conducted on a single cubic unit cell where 125 particles have been placed on the surface of the patterned dielectric surface. The overall optical response has been investigated as a function of the incident angle of the electromagnetic field which was approximated as a TM linearly polarized plane wave (Additional file 4 ). The periodicity of the system was taken into account by applying Floquet boundary conditions on the lateral sides of the unit cell, perpendicular to the plane of incidence; subsequently, results have been periodically extended to visualize the diatom array (Additional file 4 ). A wavelength of λ  = 633.0 nm was set. Power of the incident radiation was arbitrarily chosen as P inc  = 1 W, the unit cell area equals 3.9 × 10 −13  m 2 and the resulting intensity is I  = 2.5 × 10 −8  W/cm 2 (notice that intensity dependant non-linearity is here neglected). Regarding the materials, the diatom was optically described as a dielectric with refractive index n diatom  = 1.3, whereas the surrounding environment is air with n air  = 1. Gold nanoparticles, modeled as perfect spheres with a diameter d  = 20 nm, were modeled following the dielectric formulation reported in [ 20 ]. The geometrical domain has been discretized using tetrahedral elements. Maximum size of the mesh element has been chosen as 1/5 of the effective wavelength value that had to be resolved in each domain, depending on its refractive index. The minimum mesh element was set to r /1.5, r  = 10 nm is the radius of each nano-sphere. Maxwell equations have been numerically solved within the unit cell by placing perfectly matched layers at the top and the bottom of the structure, in order to avoid unphysical reflections at the boundaries of the domain. In addition, the electromagnetic field symmetry has been exploited to reduce the computational effort of the simulation. As a result, equations are solved for a half of a diatom only, and perfect magnetic conductor boundary conditions have been imposed to the lateral sides of the unit cell, parallel to the plane of incidence, coherently with the polarization of the incident field.
+Raman Analysis of Samples
+
+D24 devices containing BSA were positioned on the stage of a Renishaw inVia micro-Raman microscope for analysis. Samples were analyzed using × 20/50 objectives of a Leica microscope. Raman spectra were excited by the 633.0 nm line of an HeNe laser in backscattering geometry and acquired with a CCD with 1024 × 1024 pixels. Laser power was adjusted as 0.18 mW and maintained constant throughout the whole measurements. Interferograms were recorded with an integration time of 20 s. Each spectrum was base line corrected with a second degree polynomial function. Raman maps were performed with a step size of 400 and 600 nm in the x and y axes direction.
+Abbreviations
+
+BSA:
+
+    Bovine serum albumin
+D24 systems:
+
+    Silicon dioxide diatom shells functionalized with gold nanoparticles
+DE:
+
+    Diatomaceous earth
+MO:
+
+    Mineral oil
+SERS:
+
+    Surface-enhanced Raman spectroscopy
+
+References
+
+    1.
+
+    Armbrust EV (2009) The life of diatoms in the world's oceans. Nature 459:185–192
+
+    Article   Google Scholar  
+    2.
+
+    Bradbury J (2004) Nature’s nanotechnologists: unveiling the secrets of diatoms. PLoS Biol 2:e306
+
+    Article   Google Scholar  
+    3.
+
+    Mishra M, Arukha AP, Bashir T, Yadav D, Prasad GBKS (2017) All new faces of diatoms: potential source of nanomaterials and beyond. Front Microbiol 1–8
+    4.
+
+    Aitkena ZH, Luob S, Reynoldsc SN, Thaulowd C, Greerb JR (2016) Microstructure provides insights into evolutionary design and resilience of Coscinodiscus sp. Frustule. Proc Natl Acad Sci USA 113:2017–2022
+
+    Article   Google Scholar  
+    5.
+
+    Cranford SW, Tarakanova A, Pugno NM, Buehler MJ (2012) Nonlinear material behaviour of spider silk yields robust webs. Nature 482:72–76
+
+    Article   Google Scholar  
+    6.
+
+    Nova A, Keten S, Pugno NM, Redaelli A, Buehler MJ (2010) Molecular and nanostructural mechanisms of deformation, strength and toughness of spider silk fibrils. Nano Lett 10:2626–2634
+
+    Article   Google Scholar  
+    7.
+
+    Vollrath F, Madsen B, Shao Z (2001) The effect of spinning conditions on the mechanics of a spider’s dragline silk. Proc R Soc B Biol Sci 268:2339–2346
+
+    Article   Google Scholar  
+    8.
+
+    Ferrara, M. A.;Dardano, P.; De Stefano, L.;Rea, I.;Coppola, G.;Rendina, I.;Congestri, R.;Antonucci, A.; De Stefano, M.; De Tommasi, E. Optical properties of diatom nanostructured biosilica in Arachnoidiscus sp: micro-optics from mother nature. PLoS One 2014, 9, e103750–103751-103758
+    9.
+
+    Romann J, Valmalette J-C, Chauton MS, Tranell G, Einarsrud M-A, Vadstein O (2015) Wavelength and orientation dependent capture of light by diatom frustule nanostructures. Sci Rep 5:1–6
+
+    Article   Google Scholar  
+    10.
+
+    Romann J, Valmalette J-C, Røyset A, Einarsrud M-A (2015) Optical properties of single diatom frustules revealed by confocal microspectroscopy. Opt Lett 40:740–743
+
+    Article   Google Scholar  
+    11.
+
+    Yamanaka S, Yano R, Usami H, Hayashida N, Ohguchi M, Takeda H, Yoshino K (2008) Optical properties of diatom silica frustule with special reference to blue light. J Appl Phys 103:7 pp. 074701–5
+    12.
+
+    Yoneda S, Ito F, Yamanaka S, Usami H (2016) Optical properties of nanoporous silica frustules of a diatom determined using a 10 μm microfiber probe. Jpn J Appl Phys 55:7 pp. 072001
+    13.
+
+    Chao JT, Biggs MJ, Pandit AS (2014) Diatoms: a biotemplating approach to fabricating drug delivery reservoirs. Expert Opin Drug Deliv 11:1687–1695
+
+    Article   Google Scholar  
+    14.
+
+    Sandhage KH, Dickerson MB, Huseman PM, Caranna MA, Clifton JD, Bull TA, Heibel TJ, Overton WR, Schoenwaelder MEA (2002) Novel, bioclastic route to self-assembled, 3D, chemically tailored Meso/nanostructures: shape-preserving reactive conversion of biosilica (diatom) microshells. Adv Mater 14:429–433
+
+    Article   Google Scholar  
+    15.
+
+    Aw MS, Simovic S, Addai-Mensah J, Losic D (2011) Silica microcapsules from diatoms as new carrier for delivery of therapeutics. Nanomedicine 6:7 pp. 1159–73
+    16.
+
+    Rea I, Terracciano M, De Stefano L (2017) Synthetic vs natural: diatoms bioderived porous materials for the next generation of healthcare Nanodevices. Adv Healthcare Mater 6: pp. 1601125
+    17.
+
+    Sclafani M, Juffmann T, Knobloch C, Arndt M (2013) Quantum coherent propagation of complex molecules through the frustule of the alga Amphipleura pellucida. New J Phys 15:1–7
+
+    Article   Google Scholar  
+    18.
+
+    Coluccio ML, Gentile F, Francardi M, Perozziello G, Malara N, Candeloro P, Di Fabrizio E (2014) Electroless deposition and nanolithography can control the formation of materials at the Nano-scale for Plasmonic applications. Sensors 14:6056–6083
+
+    Article   Google Scholar  
+    19.
+
+    Gentile F, Coluccio M, Toma A, Rondanina E, Leoncini M, De Angelis F, Das G, Dorigoni C, Candeloro P, Di Fabrizio E (2012) Electroless deposition dynamics of silver nanoparticles clusters: a diffusion limited aggregation (DLA) approach. Microelectron Eng 98:359–362
+
+    Article   Google Scholar  
+    20.
+
+    Rakic AD, Djurisic AB, Elazar JM, Majewski ML (1998) Optical properties of metallic films for vertical-cavity optoelectronic devices. Appl Opt 37:5271–5283
+
+    Article   Google Scholar  
+    21.
+
+    Gentile F, Coluccio ML, Zaccaria RP, Francardi M, Cojoc G, Perozziello G, Raimondo R, Candeloro P, Di Fabrizio E (2014) Selective on site separation and detection of molecules in diluted solutions with superhydrophobic clusters of plasmonic nanoparticles. Nano Scale 6:8208–8225
+    22.
+
+    Franzen S (2009) Intrinsic limitations on the |E|4 dependence of the enhancement factor for surface-enhanced Raman scattering. J Phys Chem C 113:5912–5919
+
+    Article   Google Scholar  
+    23.
+
+    Fazio B, D’Andrea C, Foti A, Messina E, Irrera A, Donato MG, Villari V, Micali N, Maragò OM, Gucciardi PG (2016) SERS detection of biomolecules at physiological pH via aggregation of gold Nanorods mediated by optical forces and Plasmonic heating. Sci Rep 6: pp. 1–13
+    24.
+
+    Coluccio M, Alabastri A, Bonanni S, Majewska R, Dattola E, Barberio M, Candeloro P, Perozziello G, Mollace V, Di Fabrizio E, Gentile F (2017) Surface enhanced thermo lithography. Microelectron Eng 174:52–58
+
+    Article   Google Scholar  
+    25.
+
+    Das, G.;Mecarini, F.;Gentile, F.;Candeloro, P.;Liberale, C.;De Angelis, F.;Kumar, H.;Cuda, G.; Di Fabrizio, E. Nano-patterned SERS substrate: application for protein analysis vs. temperature. BioSensonsors BioElectronics 2009, 24, 1693–1699
+    26.
+
+    Grob K (2008) Could the Ukrainian sunflower oil contaminated with mineral oil wake up sleeping dogs? Eur J Lipid Sci Technol 110:979–981
+
+    Article   Google Scholar  
+    27.
+
+    Lin-Vien D, Colthup N, Fateley W, Grasselli J (1991) The handbook of infrared and Raman characteristic frequencies of organic molecules. San Diego: Academic Press
+    28.
+
+    Orange D, Knittle E, Farber D, Williams Q (1996) Raman spectroscopy of crude oils and hydrocarbon fluid inclusions: a feasibility study. Int Mineralogical Assoc 5:65–82
+
+    Google Scholar  
+    29.
+
+    Ren F, Campbell J, Hasan D, Wang X, Rorrer GL, Wang AX (2013) Surface-enhanced Raman scattering on diatom biosilica photonic crystals. Proc SPIE - Bioinspired, Biointegrated, Bioengineered Photonic Devices 8598:N1–N8
+
+    Google Scholar  
+    30.
+
+    Chen J, Qin G, Chen Q, Yu J, Li S, Cao F, Yang B, Ren Y (2015) A synergistic combination of diatomaceous earth with au nanoparticles as a periodically ordered, button-like substrate for SERS analysis of the chemical composition of eccrine sweat in latent fingerprints. J Mater Chem C 3:4933–4944
+
+    Article   Google Scholar  
+    31.
+
+    Pannico M, Rea I, Chandrasekaran S, Musto P, Voelcker NH, De Stefano L (2016) Electroless gold-modified diatoms as surface-enhanced Raman scattering supports. Nanoscale Res Lett 11: pp. 1–6
+    32.
+
+    Gentile, F.;Coluccio, M. L.;Candeloro, P.;Barberio, M.;Perozziello, G.;Francardi, M.; Di Fabrizio, E. Electroless deposition of metal nanoparticle clusters: effect of pattern distance. J Vac Sci Technol B 2014, 32 , 031804:031801–031812
+
+Download references
+Acknowledgements
+
+Not applicable.
+Funding
+
+This work has been partially funded from the Italian Minister of Health under the project “Cancer biomarker detection using micro-structured/super-hydrophobic surfaces and advanced spectroscopy techniques” (Project n. GR-2010-2320665).
+Availability of Data and Materials
+
+The datasets generated during and/or analyzed during the current study are available from the corresponding author on request.
+Author information
+Affiliations
+
+    Department of Experimental and Clinical Medicine, University of Magna Graecia, 88100, Catanzaro, Italy
+
+    V. Onesto, M. L. Coluccio & F. Amato
+
+    IMEM-CNR, Parco Area delle Scienze 37/A, 43124, Parma, Italy
+
+    M. Villani, D. Calestani & N. Coppedé
+
+    Unit for Environmental Sciences and Management, School of Biological Sciences, North-West University, Potchefstroom, 2520, South Africa
+
+    R. Majewska
+
+    South African Institute for Aquatic Biodiversity, Grahamstown, 6140, South Africa
+
+    R. Majewska
+
+    Department of Physics and Astronomy, Rice University, Houston, TX, 77005, USA
+
+    A. Alabastri
+
+    Interdisciplinary Research Center on Biomaterials, University Federico II, 80125, Naples, Italy
+
+    E. Battista
+
+    Department of Physics, Politecnico di Milano, 20133, Milan, Italy
+
+    A. Schirato
+
+    Department of Electrical Engineering and Information Technology, University Federico II, 80125, Naples, Italy
+
+    M. Cesarelli & F. Gentile
+
+    King Abdullah University of Science and Technology, Thuwal, 23955-6900, Saudi Arabia
+
+    E. Di Fabrizio
+
+Contributions
+
+VO performed Raman and SERS analysis of biological samples and mineral oil. MV and DC modified, functionalized, and acquired SEM images of the diatom shells with Au NPs. MLC supervised the experimental part of the work. RM conceived the idea and helped in writing the manuscript. AA and AS performed numerical simulations and helped in writing the manuscript. EB performed XPS analysis of samples and helped in writing the manuscript. NC, MC, EDF, and FA commented on the manuscript and helped in interpreting results. FG conceived the idea, supervised and coordinated the overall activity, and wrote the manuscript. All authors read and approved the final manuscript.
+Corresponding author
+
+Correspondence to F. Gentile .
+Ethics declarations
+Authors’ Information
+
+Not applicable.
+Competing Interests
+
+The authors declare that they have no competing interests.
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Additional Files
+Additional file 1:
+
+SEM images of D24 systems. (DOCX 878 kb)
+Additional file 2:
+
+Notes on the diatomaceous earth used in this study. (DOCX 18 kb)
+Additional file 3:
+
+Fluorescence images of D24 systems. (DOCX 515 kb)
+Additional file 4:
+
+Supporting figures to the Numerical Simulation Methods of the main text. (DOCX 608 kb)
+Rights and permissions
+
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+
+Reprints and Permissions
+About this article
+Verify currency and authenticity via CrossMark
+Cite this article
+
+Onesto, V., Villani, M., Coluccio, M.L. et al. Silica diatom shells tailored with Au nanoparticles enable sensitive analysis of molecules for biological, safety and environment applications. Nanoscale Res Lett 13, 94 (2018). https://doi.org/10.1186/s11671-018-2507-4
+
+Download citation
+
+    Received : 09 February 2018
+
+    Accepted : 28 March 2018
+
+    Published : 10 April 2018
+
+    DOI : https://doi.org/10.1186/s11671-018-2507-4
+
+Share this article
+
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+Keywords
+
+    Diatoms
+    Frustules
+    Sensing devices
+    Au functionalization
+    SERS
+    Safety
+    Biological sensing 
+
+Download PDF
+
+    Sections
+    Figures
+    References 
+
+    Abstract
+    Background
+    Results
+    Discussion
+    Conclusions
+    Methods
+    Abbreviations
+    References
+    Acknowledgements
+    Author information
+    Ethics declarations
+    Additional Files
+    Rights and permissions
+    About this article 
+
+Advertisement
+Advertisement
+
+    Support and Contact
+    Jobs
+    Language editing for authors
+    Scientific editing for authors
+    Leave feedback
+
+    Terms and conditions
+    Privacy statement
+    Accessibility
+    Cookies
+
+Follow SpringerOpen
+
+    SpringerOpen Twitter page
+    SpringerOpen Facebook page
+
+By using this website, you agree to our Terms and Conditions , California Privacy Statement , Privacy statement and Cookies policy. Manage cookies/Do not sell my data we use in the preference centre.
+Springer Nature
+
+© 2021 BioMed Central Ltd unless otherwise stated. Part of Springer Nature .
+Your privacy
+
+We use cookies to make sure that our website works properly, as well as some "optional" cookies to personalise content and advertising, provide social media features and analyse how people use our site. By accepting some or all optional cookies you give consent to the processing of your personal data, including transfer to third parties, some in countries outside of the European Economic Area that do not offer the same data protection standards as the country where you live. You can decide which optional cookies to accept by clicking on "Manage Settings", where you can also find more information about how your personal data is processed. View our privacy policy
+Manage Settings Accept All Cookies

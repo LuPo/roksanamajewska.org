@@ -2,14 +2,20 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr">
-        {%- if entry.abbr -%}
-          {%- if site.data.venues[entry.abbr] -%}
-          <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+        <div class="col-sm-3 abbr">
+        {%- if entry.shortjournal -%}
+          {%- if site.data.venues[entry.shortjournal] -%}
+          <abbr class="badge"><a href="{{site.data.venues[entry.shortjournal].url}}">{{entry.shortjournal}}</a></abbr>
+          <!-- {%- elsif entry.type == "online" -%}
+          <abbr class="badge">{{entry.langid}}</abbr> -->
           {%- else -%}
-          <abbr class="badge">{{entry.abbr}}</abbr>
+          <abbr class="badge">{{entry.shortjournal}}</abbr>
           {%- endif -%}
-        {%- endif -%}
+        {% elsif entry.titleaddon %}
+          <abbr class="badge">{{entry.titleaddon}}</abbr>
+        {% elsif entry.location %}
+          <abbr class="badge">{{entry.location}}</abbr>
+        {% endif %}
         </div>
 
         <!-- Entry bib key -->
@@ -74,7 +80,7 @@
           {% if entry.type == "article" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
-            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+            {%- capture entrytype -%}<em>{{entry.eventtitle}}</em> {%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
@@ -84,7 +90,26 @@
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
           <div class="periodical">
-            {{ periodical | strip }}
+            <!-- {{ periodical | strip }} -->
+            {% if entry.type == "article" %}
+              <em>{{entry.journaltitle}}</em> {{entry.volume}}:{{entry.pages}},
+            {% elsif entry.type == "inproceedings" %}
+              <em>{{entry.eventtitle}}</em>
+            <!-- Only article type works, online not -->
+            {% elsif entry.type == "online" %}
+              <em>{{entry.titleaddon}}</em>
+            {% elsif entry.howpublished %}
+              <em>{{entry.note}}</em>,&nbsp;
+            {% endif %}
+            {% if entry.year %}
+              {{entry.year}}
+            {% endif %}
+            {% assign datelength = entry.date | size %}
+            {% if datelength == 4 %}
+              {{entry.date}}
+            {% else %}
+              {{entry.date | date: "%Y"}}
+            {% endif %}
           </div>
         {%- endif %}
         
@@ -99,6 +124,9 @@
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
+          {% if entry.url %}
+            <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">URL</a>
+          {% endif %}
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}

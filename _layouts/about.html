@@ -4,31 +4,33 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
+        {% if page.profile -%}
+        <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+          <a class="twitter-timeline" data-height="750" data-dnt="true" data-theme="light" href="https://twitter.com/MajewskaR?ref_src=twsrc%5Etfw">Tweets by MajewskaR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        {%- endif %}
         <header class="post-header">
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+          <p class="desc">{{ page.subtitle }}            <a href="https://twitter.com/MajewskaR?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MajewskaR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </p>
         </header>
-
+        
         <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-              {% include figure.html 
-              path=profile_image_path 
-              class="img-fluid z-dept-1 rounded" -%}
-            {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
-          </div>
-          {%- endif %}
+
 
           <div class="clearfix">
+            {% if page.profile -%}
+            <div class="profile float-left">
+              {%- if page.profile.image %}
+                {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+                {% include figure.html 
+                path=profile_image_path 
+                class="img-fluid z-dept-1 rounded" -%}
+              {% endif -%}
+            </div>
+            {% endif -%}
             {{ content }}
           </div>
 

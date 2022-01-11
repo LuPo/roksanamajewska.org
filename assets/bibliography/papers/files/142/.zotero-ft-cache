@@ -1,0 +1,456 @@
+
+
+
+JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+Elsevier logo ScienceDirect
+
+    Journals & Books 
+
+Register Sign in
+You have institutional access
+
+    View  PDF
+    Download full issue 
+
+Outline
+
+    Highlights
+    Abstract
+    Graphical abstract
+    Keywords
+    1. Introduction
+    2. Methods
+    3. Results
+    4. Discussion
+    5. Conclusions
+    Acknowledgments
+    Appendix A. Supplementary data
+    References 
+
+Show full outline
+Figures (5)
+
+    Unlabelled figure
+    Fig. 1. Clusters of silver nanoparticles arranged in a hexagonal lattice in the plane…
+    Fig. 2. simulations of the temperature maps around the silver nanoparticles generated…
+    Fig. 3. plasmonics device at the super-micrometric scale imaged through optical…
+    Fig. 4. Optical inspection (a) and Raman mapping measurement (b) of the sample after…
+
+Tables (1)
+
+    Table 1 
+
+Extras (1)
+
+    Supplementary figures 
+
+Elsevier
+Microelectronic Engineering
+Volume 174 , 25 April 2017, Pages 52-58
+Microelectronic Engineering
+Research paper
+Surface enhanced thermo lithography
+Author links open overlay panel Maria Laura Coluccio a Alessandro Alabastri b Simon Bonanni c Roksana Majewska a Elisabetta Dattola a Marianna Barberio d Patrizio Candeloro a Gerardo Perozziello a Vincenzo Mollace e Enzo Di Fabrizio a f Francesco Gentile g
+Show more
+Add to Mendeley
+Share
+Cite
+https://doi.org/10.1016/j.mee.2017.01.004 Get rights and content
+Highlights
+
+•
+
+    We used electroless deposition to fabricate clusters of silver nanoparticles.
+•
+
+    These clusters are plasmonics devices that induce giant electromagnetic (EM) field increments.
+•
+
+    When those EM field are absorbed by metal NPs generate severe temperature increases.
+•
+
+    Here, we realized a thermo-lithography of a polymer assisted by bi-dimensional photonics structures.
+•
+
+    We used a Raman set-up to transfer geometrical patterns into a layer of thermo sensitive polymer.
+
+Abstract
+
+We used electroless deposition to fabricate clusters of silver nanoparticles (NPs) on a silicon substrate . These clusters are plasmonics devices that induce giant electromagnetic (EM) field increments. When those EM field are absorbed by the metal NPs clusters generate, in turn, severe temperature increases. Here, we used the laser radiation of a conventional Raman set-up to transfer geometrical patterns from a template of metal NPs clusters into a layer of thermo sensitive Polyphthalaldehyde (PPA) polymer. Temperature profile on the devices depends on specific arrangements of silver nanoparticles. In plane temperature variations may be controlled with (i) high nano-meter spatial precision and (ii) single Kelvin temperature resolution on varying the shape, size and spacing of metal nanostructures . This scheme can be used to generate strongly localized heat amplifications for applications in nanotechnology , surface enhanced thermo-lithography (SETL), biology and medicine (for space resolved cell ablation and treatment), nano-chemistry.
+Graphical abstract
+
+Image 1
+
+    Download : Download high-res image (185KB)
+    Download : Download full-size image 
+
+    Previous article in issue
+    Next article in issue 
+
+Keywords
+Thermo-plasmonics
+Electroless deposition
+Silver nanoparticles
+Surface enhanced thermo lithography
+Polyphthalaldehyde (PPA) polymer
+1. Introduction
+
+Differently from their macro-scale counterparts, nanomaterials are characterized by lengths that span different scales to the nanometer size. The complexity in extended dimensions brings about advantages and new functionalities that may be exploited in materials science, biomedical sciences, bioengineering [1] , [2] . In Surface Enhanced Raman Scattering (SERS), silver or gold nanoparticles , with a regular rather than periodic motif, interact with an electromagnetic field to yield site specific increments of that field [3] , [4] , [5] , [6] . This in turn allows obtaining the Raman signature of biological molecules with unprecedented sensitivity and thus to diagnose a disease at the very early stages of its progression. SERS effect occurs because of the collective/resonant oscillations of electrons on the surface of a rough metal, where the roughness of the surface has to be a fraction of the wavelength of the incident electromagnetic (EM) field [7] . Similar oscillations are named localized surface plasmons (LSPs) and the study of the generation, propagation, and dependence of LSPs on the geometry of a metal substrate is at the basis of a new revolution in optics. For certain combinations of physical characteristics of the metal, wavelength and nano-topography , LSPs are responsible for enhanced EM absorption in lieu of EM scattering. Enhanced EM absorption in turn generates heat and the nanomaterial itself may be regarded as a nano-heat generator remotely controlled by light [8] , [9] . Differently from SERS, the described thermo-plasmonics effect depends on the square (and not to the power of 4) of the EM field intensity [8] , [9] . Thus the EM distribution on a metal substrate indicates how power density propagates on that substrate. A similar thermos-plasmonic effect has been used in a variety of applications including drug delivery [10] , plasmonic photo-thermal therapy [11] , nano-surgery [12] , photo-thermal imaging [13] , plasmon-assisted nano-chemistry [14] , plasmon-assisted opto-fluidics [15] .
+
+Here, we used an electroless deposition approach [16] , [17] , [18] to achieve the large-scale assembly of silver nanoparticles clusters ( Fig. 1 ) for localized and site specific temperature increment. Computer simulations ( Fig. 2 ) show that the temperature T on the device can be increased up to ~  180 K above room temperature for an initial power density P = 5 mW/μm 2 and wavelength λ = 532  nm. The temperature profile is strongly influenced by the particle distribution on the substrate. T attains a maximum at the metal/air interface and rapidly decays moving away from the particles cluster. This allows a tight control of the temperature in the planar coordinates and on changing the size, shape and spacing of the particles one may obtain specific, highly confined temperature fields on a planar surface.
+Fig. 1
+
+    Download : Download high-res image (670KB)
+    Download : Download full-size image 
+
+Fig. 1 . Clusters of silver nanoparticles arranged in a hexagonal lattice in the plane over extended regions of a silicon substrate , the size of each cluster is 10  μm and the cluster to cluster distance measured from the border is 20 μm (the size bar in the inset is 20 μm, a); high magnification SEM micro-graphs of the upper surface of the pillars reveal the morphology of the silver nanoparticles, where the average diameter of the particles is 50 nm (the size bar in the inset is 1  μm, b). AFM profile of the silver nanoparticles in a cluster (c); a similar AFM profile can be elaborated to derive the fractal dimension of the structures that for the present configuration reads as D f  = 2.4 (d).
+Fig. 2
+
+    Download : Download high-res image (222KB)
+    Download : Download full-size image 
+
+Fig. 2 . simulations of the temperature maps around the silver nanoparticles generated by an incident EM radiation. Nanoparticles are represented as partially overlapping spheres (a), where the diameter of the spheres ranges from 50 to 60  nm. Calculated temperature profiles reach a maximum at the particle-particle interfaces and the temperature in the cluster rises up ~ 180 K above room temperature (b, c).
+
+To demonstrate the device, we used a conventional Raman set-up described in the methods to modify a bi-dimensional layer of thermo-sensitive Polyphthalaldehyde (PPA) polymer. The geometries corresponding to the silver nano-particle clusters were transferred from the device to the polymer layer with sub-micrometric resolution that can be as high as the smallest photonics devices that form the substrate and are theoretically limited by surface plasmon resonance. Let’s comment on this assertion even further.
+
+Plasmon resonance is an effect where the electromagnetic field is locally enhanced by the resonant interaction of light with the surface plasmons polaritons in a metal [17] , [19] , [20] . Surface plasmons polaritons (SPPs) are collective oscillations of conduction electrons excited by an electromagnetic field. The electromagnetic (EM) field enhancement factor A ( ν ) is the ratio of the field at the position of the molecule and the incoming field and is derived as [20] (1) A ν = ε − ε 0 ε + 2 ε 0 r r + d 3 for a metallic sphere with radius r with the complex dielectric constant ε ( ν ) in a surrounding medium with a dielectric constant ε 0 . In the above, the diameter of the sphere 2 r has to be small compared with the wavelength of light (Rayleigh limit). Moreover, from the equation one may observe that A ( ν ) would strictly depend on both the radius of the nano-sphere and the distance d from the surface of the sphere and A ( ν ) would rapidly decay with d . For this, in a nano-photonics device [17]
+
+(i)
+
+    the features of the device ( r ) have to be fabricated on a length scale comparable with λ/10.
+(ii)
+
+    the distance ( d ) between the elementary nanostructures has to be controlled on a length scale of about λ/100.
+
+These two length scales are the reason why nano-plasmonics and nano-fabrication are tightly connected and a tight control over size and shape of nanostructures or metal nanoparticles aggregates is relevant: in similar devices, geometry plays an important role in determining the local electromagnetic field. While the creation of high definition patterns on a substrate is demanding, requires advanced or improved fabrication techniques and may slow the fabrication process of devices for sensing or other applications, the firm correlation between the described resonance effect and the resolution of the device permits manipulating EM radiations with a nano-metric precision in a plane. This, in turns, allows designing and realizing space-resolved experiments/measurements on a nanometric scale and detect biological molecules with single molecule resolution. Randomly rough surfaces rather than regular geometries are the best building blocks for advanced optical devices , where a good theoretical control can be achieved for a desired optical response.
+
+PPA is a standard resist in thermo-imprinting/lithography to its remarkable properties and its wide acceptance in the community. PPA is a so-called self-amplified unzip polymer which instantaneously decomposes into its volatile monomers upon an external trigger like a heat pulse. The unzipping is an endothermic reaction confining the spread of heat in the resist, enabling high-resolution patterning. The decomposition products evaporate immediately without re-deposition on the substrate. Patterned PPA does not need wet chemical development and due to its high glass-transition temperature , it can directly be used as an etch-mask with high mechanical stability.
+
+Albeit the thermos-plasmonics effect has been known since the last ten to fifteen years, the combination of this mechanism with electroless deposited nano-particle clusters is new. The integration of plasmonics induced generation of heat, that is a physical effect, with combined top down (Electron beam lithography)/bottom up (electroless deposition techniques), that is a micro-nano fabrication technique, may improve, replace or extend current lithography methods. The present MS uses thermo-plasmonics effect to transfer geometrical patterns from a template to a thermo-sensitive polymer; therefore, it provides an application of thermo-plasmonics in the fields of nano-technology and nano-fabrication, and may be of interest for the scientist working in those fields.
+
+In addition to this, a similar scheme can be used for a variety of applications including (i) surface treatment of materials at the nano-scale ; (ii) site selective treatment, process or modification of biological structures; (iii) fabrication of bi-dimensional bio-nano-patterns with a tight control over the spatial coordinates of the domain of interest.
+2. Methods
+
+De-ionized (D.I.) water (Milli-Q Direct 3, Millipore) was used for all experiments. Silver nitrate (AgNO 3 ), hydrofluoric acid (HF) were purchased from Sigma. The thermo-sensitive Polyphthalaldehyde (PPA) polymer was gently provided by Swisslitho AG, Switzerland. All chemicals, unless mentioned otherwise, were of analytical grade and were used as received.
+2.1. Fabrication of the device
+
+P-type (100) silicon wafers were accurately cleaned with acetone and ethanol to remove possible organic contaminants and then etched with a 20  %wt HF solution to eliminate the superficial native oxide and obtain a passive hydrogenated surface (dangling bonding creation) [21] . The described pretreatments were carried out in a hot (40  °C) ultrasound bath. After treatment, substrates were spin-coated with a S 1813 positive tone resist (from Rohm and Haas). Standard optical lithography techniques (Karl Suss Mask Aligner MA 45, Suss MicroTec GA, Garching, Germany) were used to generate patterns of holes in the resist, with an average diameter d  = 10 μm and pattern to pattern distance δ  = 20  μm. Silver nanoparticles were deposited in the holes using electroless deposition techniques as described in references [17] , [18] and recapitulated below. Finally, the residual resist was removed with acetone.
+2.2. Electroless deposition of silver NPs
+
+Silver nano-grains were implanted into the holes in the resist to obtain devices with thermo-plasmonics capabilities. We used electroless deposition methods as described in references [17] , [18] . Electroless deposition is based on an autocatalytic chemical reduction of metal ions in an aqueous solution when silicon nanoparticles are present. In depositing the silver nanoparticles, the concentration C of solution of the AgNO 3 silver salt, the time of deposition t, and the temperature T , were hold fixed, being C  = 1 mM, t = 60 s, T = 50 °C; in doing so, we obtained silver nano-grains with an average diameter S  ~ 50  nm and small deviations from the mean. After growth, the sample was rinsed with water and gently dried under nitrogen flux. The advantage of electroless deposition with respect to other techniques of particle formations is that the method is easily integrable with other fabrication approaches . Bottom up electroless deposition can be used in combination with top down techniques (i.e., optical rather than electron beam lithography , EBL) in a two stages procedure in which, at the first stage, lithography methods transfer patterns on a silicon substrate with micro (optical lithography) to nano (EBL) meter resolution and, at a second stage, metal nanoparticles are selectively assembled in those patterns via electroless deposition. This permits attaing the maximum control over the size and shape of the NPs.
+
+Main differences among silver and other metals (that are gold and copper) in preparing particles for plasmonics applications lie in the stability, ease of preparation methods, binding affinity between NPs and ligands and in the plasmon resonance that the NPs offer. Silver offers the higher enhancement factors which are, however, wavelength dependent [22] . Moreover, electroless deposition of silver nano-particles clusters is very well assessed and delivers maximum control over the shape and size of the nanoparticles.
+2.3. SEM characterization
+
+SEM images of the clusters of silver nanoparticles clusters were captured using a Dual Beam (SEM-FIB) - FEI Nova 600 NanoLab system. The beam energy and the corresponding electron current were maintained fixed as 15 keV and 0.14 nA throughout the acquisitions.
+2.4. AFM characterization
+
+Atomic force microscopy (ICON) was used for sample characterization. All the measurements were performed in a dry environment in intermittent contact mode over a sampling area of 1  × 1 μm 2 . Room temperature was hold fixed for all the acquisitions. Ultra-sharp Si probes with a nominal tip radius less than 5  nm were used for achieve high resolution. Multiple measurements were done in different scan directions to avoid artefacts . At least four images in height mode (trace and retrace) were recorded per sample. The images had a resolution of 512  × 512 points and were acquired at a scanning rate of 1  Hz. Processing the images with fast Fourier transform algorithms permitted to extract and decode their information content, and ultimately derive the fractal dimension of the substrates.
+2.5. Deriving the fractal dimension of the samples
+
+The AFM profiles of the gold nanoparticles clusters were processed using the algorithms developed and described in references [23] , [24] , this permitted to derive for each image a characteristic power spectrum density function, which appears as a line with a slope β in a bi logarithm plot. β is related to the Hurst parameters as β  = 2( H  + 1). The fractal dimension D f of a surface can be derived from β as D f  = (8 −  β )/2. The fractal dimension of the silver nanoparticles clusters has been derived over at least 20 samples: AFM imaging of the clusters have been realized in a short time interval and this guarantees that the experimental conditions are maintained constant (including the temperature and air humidity) over the whole duration of the experiment, that in turn assures reproducibility. Under these conditions, the amount of variation of D f values around the average is vanishingly small and thus negligible. Thus, the errors/SD in measuring the fractal dimension have been calculated but are not represented in the diagrams because small respect to the average ( e  < 0.01).
+2.6. Thermo-lithography of the thermo-sensitive PPA polymer
+
+We used a modified Raman set-up to transfer patterns into the thermo-sensitive Polyphthalaldehyde (PPA) polymer. The polymer was spin-coated onto the silver-nanoparticles substrates at 4000 rpm for 60 s and soft-baked at T = 90 °C for 180 s. Samples were processed using an Alpha 300R microscope from WITec GmbH, equipped with a 532 nm laser source and in backscattering configuration. Total laser power was adjusted in the 1–10 mW range, that permits to selectively remove the polymer from the thermo-active areas of the devices (that are, the silver nanoparticles clusters) without damaging the sample outside those regions (that is, simple Silicon). Light was focused on the sample through a 50 × /0.75 NA objective. A grating with 600  lines/mm was used for frequency analysis of the backscattered light, with a spectral resolution of ~  3 cm − 1 . Samples were processed through a raster scan, the step size of the scan was varied to maintain number of raster points per square micrometer (resolution) in the 2–4 range, while the integration time was varied in the 5–15 s range, to achieve the best quality of the thermo-lithography.
+2.7. Raman mapping measurements of the sample
+
+After exposition to the EM radiation and site selective resist decomposition, samples were verified using Raman microscopy . Raman maps of the samples were acquired using an Alpha 300R microscope and set-up described in the section above. For the measurements, laser intensity was adjusted to lower P  = 20  μW power values to avoid sample modification, sample damage and saturation effects . Raman spectra were acquired in the 0–2500  cm − 1 spectral range .
+2.8. Simulating temperature maps around silver NPs clusters
+
+Heat maps generated by the interaction between the electromagnetic radiation and the clusters of silver nanoparticles were performed by utilizing a commercial software (COMSOL) based on the Finite Element Method (FEM). Simulations were divided in two steps. In the first one, electromagnetic fields were calculated placing the nanoparticles on a S 1813 substrate (refractive index nS 1813 = 1.49). The substrate has length of 0.5 μm, width of 0.5 μm and thickness of 100 nm. The remaining background domain was considered to be air ( n AIR = 1.0) and is 100 nm thick. Electric permittivities for Ag were utilized according to Rakic et al. [25] . The simulation domain was truncated by using 10  nm thick Perfectly Matched Layers (PMLs) at the boundaries of the system. Free tetrahedral mesh elements with maximum size of w max  =  λ min /5 with λ min  = 532  nm were utilized. The source is a plane wave normally incident on the substrate. The cluster of nanoparticles is composed of partially overlapping spheres ( Fig. 2 a) with diameters ranging from 50 to 60  nm. The centers of the spheres lie on the same plane and their volume is equally split between the S1813 substrate and the air domain. In the second step, resistive losses were used as heat source for thermal (conductive) transport calculations which returned the temperature in all the utilized materials. In particular, heat transport Fourier equation was solved to calculate the temperature at each node of the simulated domains. As input, electric fields from the previous electromagnetic calculations were combined to generate the heating pattern (Joule heating) within the metallic cluster. Heat propagation was then calculated taking into consideration the different thermal conductivities and densities of the materials. In particular for Ag a thermal conductivity of k Ag  = 429 W/(m · K) and a density of ρ Ag  = 10.5 g/cm 3 were utilized. For S 1813 we set k S 1813  = 0.21 W/(m · K) and ρ S 1813  = 1.185 g/cm 3 . Heat transfer simulation domains are truncated using Infinite Elements (IE) domains in place of PML at the boundary of the system. On the external surfaces of the IE domains a fixed temperature T amb  = 293.15 K was set as boundary condition. The initial temperature of all the simulated domains was 293.15 K as well. In the simulations, temperature increments on the silver nanoparticles clusters are calculated with respect to the silicon substrate, that is the system without thermos-plasmonics effects. Therefore, temperature increases reported in the following of the MS are extremely localized and site dependent and would cause confined PPA degradation as observed in the experiments.
+3. Results
+3.1. Silver nanoparticles islands
+
+We used an electroless deposition approach (methods) to achieve the large-scale assembly of silver nanoparticles clusters ( Fig 1 ). Similar substrates are composed by silver nanoparticles islands on silicon substrate , where the diameter of each island is 10  μm, and the island to island distance measured from the border is 20 μm ( Fig. 1 a). Higher SEM magnifications ( Fig. 1 b) reveal that silver nanoparticles in the island have a characteristic diameter of approximately S  ~ 50 nm, with small deviations from the mean. Closer inspection and AFM profile of the sample as in Fig. 1 c describe the topography of the clusters in detail. AFM image can be elaborated to extract the power spectrum (PS) density function associated to the nanoparticles distribution as in Fig. 1 d, the PS delivers the information content of a surface over different scales. The slope of the diagram in a log log plot describes to which extent the information content of the image changes with its scale, thus it may be correlated to the fractal dimension of the cluster that for the present configuration is D f  = 2.4 that is strictly larger than the Euclidean dimension of a surface D  = 2. Similar clusters of nanoparticles can interact with an incident EM field to yield huge enhancements of that field and associated temperature increments. Computer simulations ( Fig. 2 ) show that the temperature T on the device can be increased up to T  ~ 180 K above room temperature ( Fig. 2 b) with a tight control of the temperature profile over the plane ( Fig. 2 c). This allows realizing site-dependent heat fluxes that can modify a surface with a nano-meter resolution.
+3.2. Thermo-lithography of silver nanoparticles clusters
+
+We used this scheme to modify the commercial thermo-sensitive PPA polymer over a plasmonics device with nano-meter spatial resolution. Upon sample preparation (methods), we used direct laser writing of a conventional Raman setup to modify the sample (methods). We realized several experiments, where the parameters of the process, that are, power intensity, integration time, and density of raster points for each experiment, were varied over a significant range and are reported in Fig. 3 and Table 1 . In the first case (case #1), power intensity and integration time are high and the polymer is decomposed on both the silver-nanoparticles and the silicon substrate. Differently, in cases from #2 to #4, fine adjustment of the parameters allows modifying the polymer selectively on the SERS/heat generator active sites of the device. Optical inspections ( Fig. 4 a) and SERS analysis ( Fig. 4 b) of the samples for the configuration #2 demonstrate that the polymer is processed solely on the nanoparticles islands. Individual Raman spectra of the thermo-sensitive PPA polymer are reported in the diagram of Fig. 4 c before and after exposition to the EM radiation in the 1–2500 cm − 1 spectral range : after exposure, in the considered range of frequencies characteristic peaks of the polymer are severely reduced or vanish to yield a flat spectrum that is indicative of the decomposition of the polymer. SERS mapping profile measured on the sample and reported in Fig. 4 b shows that the distribution of polymer content on the substrate sharply transitions from the silicon substrate, where the device presents no thermo-plasmonics effects, to the silver nanoparticles island, where the device presents thermo-plasmonics effects. The sharp transition between these regions demonstrate that the device may operate a site selective modification of materials at the nanoscale where the resolution of the process depends on the nano-structures that constitute the plasmonics device and is limited by surface plasmon resonance [17] .
+Fig. 3
+
+    Download : Download high-res image (482KB)
+    Download : Download full-size image 
+
+Fig. 3 . plasmonics device at the super-micrometric scale imaged through optical microscopy , the device was used to modify a thermo-sensitive polymer at the scale of the silver nanoparticles clusters, multiple measurement permitted to derive the best set of parameters (power intensity, raster points per single measurement, integration time) which yield high quality lithography.
+
+Table 1 . Parameters used for the thermo-lithography of the PPA polymer on a plasmonics device in different pattern transfer processes.
+Configuration 1
+Power 10 mW	
+Points per line	4
+Lines per image	18
+Scan width [μm]	2000
+Scan height [μm]	12,000
+Integration time (trace) [s]	15
+Excitation wavelength [nm]	532,140
+
+Configuration 2
+Power 5 mW	
+Points per line	50
+Lines per image	30
+Scan width [μm]	20,000
+Scan height [μm]	20,000
+Integration time (trace) [s]	10
+Excitation wavelength [nm]	532,190
+
+Configuration 3
+Power 6 mW	
+Points per line	25
+Lines per image	25
+Scan width [μm]	10,000
+Scan height [μm]	15,000
+Integration time (trace) [s]	10
+Excitation wavelength [nm]	532,150
+
+Configuration 4
+Power 5 mW	
+Points per line	4
+Lines per image	24
+Scan width [μm]	12,000
+Scan height [μm]	12,000
+Integration time (trace) [s]	10
+Excitation wavelength [nm]	532,200
+Fig. 4
+
+    Download : Download high-res image (444KB)
+    Download : Download full-size image 
+
+Fig. 4 . Optical inspection (a) and Raman mapping measurement (b) of the sample after exposition to an external EM radiation and corresponding thermo-lithography, the optical and Raman profiles indicate that the polymer was selectively removed from the silver nanoparticles photonic structures, and was maintained on the silicon background. Individual Raman spectra of the polymer before and after exposition (c).
+
+PPA Polymer decomposition occurs when the temperature at the surface of the polymer equals or increases over approximately 200  °C. Simulations show that similar temperature increments are possible solely for nano-plasmonics geometries for fixed (low) intensities of the incident laser radiation . Supplementary experiments reinforce this view. In experiments where thermo sensitive PPA polymer was treated with simple laser radiation, without the assistance of external plasmonics nano-structures, we observe that polymer decomposition occurs for high laser powers (i.e., higher than 20  mW), in opposition to low or moderate laser powers (i.e., lower than 10 mW) for which polymer, after exposure, presents no or not observable degradation. These results are presented in a separate Support Information file and validate the message of the paper that nano-geometries enable (i) localized and (ii) enhanced temperature increments and associated material modification in opposition to direct laser writing.
+
+In the presented results, we showed that roughness of a metal may influence temperature distribution on a substrate if it is comprised in the low nanometer range . We may assume that for narrow roughness intervals, temperature increment may vary linearly with roughness of a silver substrate. In perspective, PPA decomposition experiments may be carried on in which roughness of the substrate Ra and power intensity P are independently varied over a significant range, to realize Ra–P design maps (akin to state diagrams in their graphical representation) that may guide material scientists to find the best combination of power intensity and surface roughness for effective thermo-lithography.
+4. Discussion
+
+Thermo effects of clusters of nano-particles depend on the (i) material of the particles, (ii) their morphology, and (iii) the wave-length of the EM radiation interacting with those particles. Consider the simple case of an isolated nanoparticle, for this, with [9] one can derive the maximum temperature increase at the particle-medium interface (2) ΔT = r 2 3 κ o ω 8 π 3 ε 0 2 ε 0 + ε 2 Im ε 8 π c ε 0 I o where I o is the light intensity within the matrix, ε and ε 0 are the dielectric constants of the NP and surrounding medium, κ o is the thermal conductivity of the surrounding medium, r is the radius of the nanoparticle. On analyzing the equation, one can observe that the temperature increase depends on the nanoparticle radius (thus morphology), and on the dielectric constant of the metal (thus material), the dielectric constant of the metal is, in turn, a function of the wavelength. Thus different combinations of morphology, material and wavelength may yield different temperature increments. As regarding morphology, while Eq. (2) would suggest choosing the largest possible nano-particles for efficient temperature increments (and for the present configuration a ~ 50  nm particle size is a sufficiently large particle size), for a complex system of a great many of nano-particles where the EM field is a given by the non-linear interaction of individual contributions, numerical simulations and advanced mathematical modelling would be necessary to estimate the optimal average size that enables efficient temperature increments. Although this test campaign was not focused on optimizing performance/particle size and was more an exercise in existence proof, it is still useful to put the observed thermo-lithography effect and associated ~  50  nm particle size figure in context. Current state-of the art nanoparticle size for SERS under plasmon resonance condition lies in the 40–80  nm range [26] , [27] .
+
+As regarding the material, the dielectric constant separated in its real and imaginary constituents plays an important role [9] . For metal NPs, the heat generation rate demonstrates a typical plasmon peak. Ag NP under plasmon resonance conditions generates heat about ten times stronger than Au NPs [9] , [28] , [29] : Ag typically demonstrates elevated plasmon enhancement compared to other metals, and this justifies the choice of silver as constituent of the particles in the present work.
+
+As regarding wavelength, dielectric constants of metals are wavelength dependent, for silver it is very well understood and assessed that plasmon resonance occurs at approximately λ  = 514 nm wavelength [30] . In our experiments, we used a λ  = 532 nm wavelength that is the closer value to λ  = 514 nm available in our WITec GmbH Raman set up.
+
+Consider now again Eq. 2 . Using in the equation a light intensity density of I o  ~ 10 9  W/m 2 , under the plasmon resonance condition λ  = 514 nm, using the values for silver permittivity and S 1813 taken from [29] , [31] , for a 50 nm particle one would obtain a temperature increase of ΔT ~ 60 °C, that is lower than the value predicted by the simulations (ΔT ~ 180 °C, Fig. 2 ), and the discrepancy between the two may be easily explained considering that in the latter configuration, many particles in a system yield collective enhanced effects in contrast to isolated components of that system. Also observe that a similar temperature increment is consistent with PPA degradation as in Fig. 3 , thus predictions of the model match with the experiments results with a good level of accuracy.
+5. Conclusions
+
+We produced photonics devices that can manipulate the EM fields at a nanometer level to yield giant enhancements of those fields. When absorbed by the nanostructures , EM fields generate heat that can be utilized for thermo-lithography processes. Here, we used similar devices to transfer patterns of circles of plasmonics silver nanoparticles clusters from the device to a layer of thermo sensitive polymer. Considering that the temperature profile on the substrate depends on the silver nanoparticles size and distribution, and that the described profile may be controlled with a high nano-meter spatial precision and single Kelvin temperature resolution, a similar scheme can be used to generate strongly localized heat amplification, for application in nanotechnology , surface enhanced thermo-lithography (SETL), biology and medicine (for space resolved cell ablation and treatment), nano-chemistry.
+Acknowledgments
+
+This work has been partially funded from the Ministry of Health, Italy (Project n. GR-201s0-2320665 ).
+Appendix A. Supplementary data
+
+Download : Download Word document (331KB)
+
+Supplementary figures
+
+References
+
+[1]
+    S. Glotzer
+    Nanotechnology: shape matters
+    Nature, 481 (2012), pp. 450-452
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[2]
+    S.C. Glotzer, J.A. Anderson
+    Nanoparticle assembly: made to order
+    Nat. Mater., 9 (2010), pp. 885-887
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[3]
+    E. Hao, G. Schatz
+    Electromagnetic fields around silver nanoparticles and dimmers
+    J. Chem. Phys., 120 (2004), pp. 357-367
+    Finding PDF...
+    View Record in Scopus Google Scholar
+[4]
+    C.L. Haynes, A.D. McFarland, R.P.V. Duyne
+    Surface-s
+    Anal. Chem., 77 (2005), pp. 338 A-346 A
+    Finding PDF...
+    CrossRef Google Scholar
+[5]
+    J. Kneipp, H. Kneipp, K. Kneipp
+    SERS-a single-molecule and nanoscale tool for bioanalytics
+    Chem. Soc. Rev., 37 (2008), pp. 1052-1060
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[6]
+    K. Kneipp
+    Surface-enhanced Raman scattering
+    Phys. Today, 60 (2007), pp. 40-47
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[7]
+    K. Kneipp, Y. Wang, H. Kneipp, L.T. Perelman, I. Itzkan, R.R. Dasari, M.S. Feld
+    Single molecule detection using san Scattering (SERS)
+    Phys. Rev. Lett., 78 (1997), pp. 1667-1670
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[8]
+    G. Baffou, R. Quidant
+    Thermo-plasmonics: using metallic nanostructures as nano-sources of heat
+    Laser Photonics Rev., 7 (2013), pp. 171-187
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[9]
+    A.O. Govorov, H.H. Richardson
+    Generating heat with metal nanoparticles
+    NanoToday, 2 (2007), pp. 30-38
+    Article Download PDF View Record in Scopus Google Scholar
+[10]
+    F.X. Gu, R. Karnik, A.Z. Wang, F. Alexis, E. Levy-Nissenbaum, S. Hong, R.S. Langer, O.C. Farokhzad
+    Targeted nanoparticles for cancer therapy
+    NanoToday, 2 (2007), pp. 14-21
+    Article Download PDF View Record in Scopus Google Scholar
+[11]
+    R. Huschka, J. Zuloaga, M.W. Knight, L.V. Brown, Nordlander, N.J. Halas
+    Light-induced release of DNA from gold nanoparticles: nanoshells and nanorods
+    J. Am. Chem. Soc., 133 (2011), pp. 12247-12255
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[12]
+    A.S. Urban, T. Pfeiffer, M. Fedoruk, A.A. Lutich, J. Feldmann
+    Single-step injection of gold nanoparticles through phospholipid membranes
+    ACS Nano, 5 (2011), pp. 3585-3590
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[13]
+    D. Boyer, P. Tamarat, A. Maali, B. Lounis, O. M
+    Photothermal imaging of nanometer-sized metal particles among scatterers
+    Science, 16 (2002), pp. 1160-1163
+    Finding PDF...
+    View Record in Scopus Google Scholar
+[14]
+    X. Zhang, P. Wang, Z. Zhang, Y. Fang, M. Sun
+    Plasmon-driven sequential chemical reactions in an aqueous environment
+    Sci. Report., 4 (2014), pp. 1-7
+    Article Download PDF CrossRef View Record in Scopus Google Scholar
+[15]
+    J.S. Donner, G. Baffou, D. McCloskey, R. Quidant
+    Plasmon-assisted optofluidics
+    ACS Nano, 5 (2011), pp. 5457-5462
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[16]
+    M.L. Coluccio, F. Gentile, G. Das, A. Nicastri, A.M. Perri, P. Candeloro, G. Perozziello, R.P. Zaccaria, J.S.T. Gongora, S. Alrasheed, A. Fratalocchi, T. Limongi, G. Cuda, E.D. Fabrizio
+    Detection of single amino acid mutation in human breast cancer by disordered plasmonic self-similar chain
+    Sci. Adv., 1 (2015), Article e1500487
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[17]
+    M.L. Coluccio, F. Gentile, M. Francardi, G. Perozziello, N. Malara, P. Candeloro, E. Di Fabrizio
+    Electroless deposition and nanolithography can control the formation of materials at the nano-scale for plasmonic applications
+    Sensors, 14 (2014), pp. 6056-6083
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[18]
+    F. Gentile, M. Coluccio, A. Toma, E. Rondanina, M. Leoncini, F. De Angelis, G. Das, C. Dorigoni, P. Candeloro, E. Di Fabrizio
+    Electroless deposition dynamics of silver nanoparticles clusters: a diffusion limited aggregation (DLA) approach
+    Microelectron. Eng., 98 (2012), pp. 359-362
+    Article Download PDF View Record in Scopus Google Scholar
+[19]
+    F. Garcia-Vidal, J. Pendry
+    Collective theory of surface enhanced Raman scattering
+    Phys. Rev. Lett., 77 (1996), pp. 1163-1166
+    Finding PDF...
+    View Record in Scopus Google Scholar
+[20]
+    K. Kneipp, H. Kneipp, I. Itzkan, R.R. Dasari, M.S. Feld
+    Surface-enhanced Raman scattering and biophysics
+    J. Phys. Condens. Matter, 14 (2002), pp. R597-R624
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[21]
+    V. Palermo, D. Jones
+    Morphological changes of the Si [100] surface after treatment with concentrated and diluted HF
+    Mater. Sci. Semicond. Process., 4 (2001), pp. 437-441
+    Article Download PDF View Record in Scopus Google Scholar
+[22]
+    Handbook of Vibrational Spectroscopy
+    John Wiley & Sons Ltd, Chichester (2002)
+    Google Scholar
+[23]
+    F. Gentile, E. Battista, A. Accardo, M. Coluccio, M. Asande, G. Perozziello, G. Das, C. Liberale, F. De Angelis, P. Candeloro, P. Decuzzi, E. Di Fabrizio
+    Fractal structure can explain the increased hydrophobicity of naSnoporous silicon films
+    Microelectron. Eng., 88 (2011), pp. 2537-2540
+    Article Download PDF View Record in Scopus Google Scholar
+[24]
+    F. Gentile, L. Tirinato, E. Battista, F. Causa, C. Liberale, E. Di Fabrizio, P. Decuzzi
+    Cells preferentially grow on rough substrates
+    Biomaterials, 31 (2010), pp. 7205-7212
+    Article Download PDF View Record in Scopus Google Scholar
+[25]
+    A.D. Rakić, A.B. Djurišić, J.M. Elazar, M.L. Majewski
+    Optical properties of metallic films for vertical-cavity optoelectronic devices
+    Appl. Opt., 37 (1998), pp. 5271-5283
+    Finding PDF...
+    CrossRef View Record in Scopus Google Scholar
+[26]
+    V. Amendola, O.M. Bakr, F. Stellacci
+    study of the surface plasmon resonance of silver nanoparticles by the discrete dipole approximation method: effect of shape, size, structure, and assembly
+    Plasmonics, 5 (2010), pp. 85-97
+    CrossRef View Record in Scopus Google Scholar
+[27]
+    J. Mock, M. Barbic, D. Smith, D. Schultz, S. Schultz
+    Shape effects in plasmon resonance of individual colloidal silver nanoparticles
+    J. Chem. Phys., 116 (2002), pp. 6755-6759
+    CrossRef View Record in Scopus Google Scholar
+[28]
+    D. Barchiesi, T. Grosges
+    Fitting the optical constants of gold, silver, chromium, titanium, and aluminum in the visible bandwidth
+    J. Nanophotonics, 8 (2014)
+    (083097-083016)
+    Google Scholar
+[29]
+    P. Johnson, R. Christy
+    Optical constants of the noble metals
+    Phys. Rev. B, 6 (1972), pp. 4370-4379
+    CrossRef View Record in Scopus Google Scholar
+[30]
+    P.G. Etchegoin, E.C. Le Ru
+    Basic electromagnetic theory of SERS
+    S. Schlucker (Ed.), Surface Enhanced Raman Spectroscopy: Analytical, Biophysical and Life Science Applications, WILEY-VCH Verlag GmbH & Co., Weinheim (2011)
+    Google Scholar
+[31]
+    E. Palik
+    Handbook of Optical Constants of Solids
+    Academic Press (1998)
+    Google Scholar
+
+View Abstract
+© 2017 Elsevier B.V. All rights reserved.
+Part of special issue:
+Micro/Nano Devices and Systems Edited by Roman Beigelbeck and Bernhard Jakoby
+Edited by
+Roman Beigelbeck , Bernhard Jakoby
+Download full issue
+Other articles from this issue
+
+    Amorphous SiC resistive memory with embedded Cu nanoparticles
+    25 April 2017, pp.
+    Download PDF View details
+    Low-voltage DNTT-based thin-film transistors and inverters for flexible electronics
+    25 April 2017, pp.
+    Download PDF View details
+    Blue-green InGaN/GaN light-emitting diode with mesh-like top metal electrode
+    25 April 2017, pp.
+    Download PDF View details
+
+View more articles
+Recommended articles
+Citing articles (1)
+Article Metrics
+View article metrics
+Elsevier logo
+
+    About ScienceDirect
+    Remote access
+    Shopping cart
+    Advertise
+    Contact and support
+    Terms and conditions
+    Privacy policy 
+
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies .
+
+Copyright © 2021 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+
+ScienceDirect ® is a registered trademark of Elsevier B.V.
+RELX group home page

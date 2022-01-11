@@ -1,18 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"De Stefano":
+  - firstname: ["Mario", "M."]
+    url: https://www.researchgate.net/profile/Mario-De-Stefano
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Dobrestov":
+  - firstname: ["Sergey", "S."]
+    url: https://www.researchgate.net/profile/Sergey-Dobretsov
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Vijver":
+  - firstname: ["Bart Van de", "Bart"]
+    url: https://www.researchgate.net/profile/Bart-Van-De-Vijver
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ashworth":
+  - firstname: ["Matt P.", "M. P."]
+    url: https://www.researchgate.net/profile/Matt-Ashworth-2
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Taylor":
+  - firstname: ["Jonathan Charles", "Jonathan C.", "J. C."]
+    url: https://www.researchgate.net/profile/Jonathan-Taylor-30
+
+"Nel": 
+  - firstname: ["Ronel", "R."]
+    url: https://scholar.google.co.za/citations?user=-v8MKZ0AAAAJ&hl=en

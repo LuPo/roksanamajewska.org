@@ -1,6 +1,9 @@
 {%- assign path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
-
-<figure>
+{%- if page.title == "about" -%}
+<figure style="margin: 3px 10px 3px 0px"> 
+{% else %}
+<figure style="margin-top: inherit; margin-bottom: inherit;">
+{% endif %}
 
   <picture>
     {% for i in site.imagemagick.widths -%}
