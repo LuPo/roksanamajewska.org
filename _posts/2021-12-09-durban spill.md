@@ -3,7 +3,7 @@ layout: post
 title:  Assessment of the medium-term effects of the Durban chemical spill on coastal habitats using diatoms
 
 date: 2021-12-29T05:16:16.974+02:00
-description: New MSc project
+description: New MSc project!
 tags: studentproject waterquality sampling
 categories: fieldwork
 published: true

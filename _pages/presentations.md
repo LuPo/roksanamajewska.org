@@ -2,7 +2,7 @@
 title: oral presentations
 layout: page
 permalink: "/presentations/"
-description: publications by categories in reversed chronological order.
+description: oral presentations in reversed chronological order
 nav: false
 ---
 

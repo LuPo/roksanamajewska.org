@@ -2,7 +2,7 @@
 title: online
 layout: page
 permalink: "/online/"
-description: publications by categories in reversed chronological order.
+description: publications in reversed chronological order
 nav: false
 ---
 <!-- _pages/online.md -->

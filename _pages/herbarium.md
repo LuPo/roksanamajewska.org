@@ -2,7 +2,7 @@
 title: herbarium
 layout: page
 permalink: "/herbarium/"
-description: Marine Epibiotic Diatom Collection (MEDiC).
+description: Marine Epibiotic Diatom Collection (MEDiC)
 nav: true
 img: /assets/img/12.jpg
 ---

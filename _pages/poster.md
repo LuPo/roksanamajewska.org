@@ -2,7 +2,7 @@
 title: poster presentations
 layout: page
 permalink: "/poster/"
-description: publications by categories in reversed chronological order.
+description: poster presentations in reversed chronological order
 nav: false
 ---
 
