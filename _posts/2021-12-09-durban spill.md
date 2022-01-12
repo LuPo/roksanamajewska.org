@@ -9,7 +9,7 @@ categories: fieldwork
 published: true
 ---
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         <iframe width="780" height="438" src="https://www.youtube-nocookie.com/embed/iCT8PN3H7zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
