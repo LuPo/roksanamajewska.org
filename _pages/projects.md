@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of important projects.
+description: ":bear: with me. It is a work in progress..."
 nav: true
 display_categories: [work]
 horizontal: false

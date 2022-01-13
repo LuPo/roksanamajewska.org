@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Epizoic Diatom Genomes
-description: <i>Unveiling the secrets of the charismatic microflora</i>
+description: Unveiling the secrets of the charismatic microflora
 img: assets/img/diatom_craspedostauros.png
 importance: 1
 category: work
