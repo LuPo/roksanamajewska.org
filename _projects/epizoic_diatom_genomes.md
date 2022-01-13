@@ -22,6 +22,8 @@ As chemically-mediated interactions are essential for the establishment of balan
 
 This study aims to assemble whole genomes of dozens of diatom species belonging to three ecological groups (non-epizoic, opportunistically epizoic, and obligately epizoic) and identify potential genetic patterns linked to the diatom lifestyle and habitat. It is our response to recent calls for exploration of a broader range of microbial in general, and diatom in particular, genomes, and further analysis of the barcoding potential of various diatom genes<d-cite key="pogoda_comparative_2019"></d-cite><d-cite key="smith_past_2016"></d-cite>.
 
+Collaborators: [Dr Marianne Pretorius](http://natural-sciences.nwu.ac.za/focus-area-human-metabolomics-biochemistry/marianne-pretorius), **co-PI** (North-West University, Potchefstroom, South Africa), Dr Arshad Ismail (National Institute for Communicable Diseases, Johannesburg, South Africa), Prof. Ntanganedzeni Olivia Mapholi (University of South Africa, Pretoria, South Africa)
+
 <div class="row justify-content-sm-center"  style="padding-top: 21px; padding-bottom: 0px">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/diatom_tursiocola_sm4.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
